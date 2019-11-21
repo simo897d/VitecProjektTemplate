@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitecProjektTemplate", "VitecProjektTemplate\VitecProjektTemplate.csproj", "{02500A15-AA7C-41D5-BB2A-E797BB3EFD34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitecWithTemplateAPI", "VitecWithTemplateAPI\VitecWithTemplateAPI.csproj", "{18A266DB-69B0-4D7B-BA48-0B1B41C12629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02500A15-AA7C-41D5-BB2A-E797BB3EFD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02500A15-AA7C-41D5-BB2A-E797BB3EFD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02500A15-AA7C-41D5-BB2A-E797BB3EFD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02500A15-AA7C-41D5-BB2A-E797BB3EFD34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A266DB-69B0-4D7B-BA48-0B1B41C12629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A266DB-69B0-4D7B-BA48-0B1B41C12629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A266DB-69B0-4D7B-BA48-0B1B41C12629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A266DB-69B0-4D7B-BA48-0B1B41C12629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05CBEDD-DC42-4778-B563-728160545D1E}
+	EndGlobalSection
+EndGlobal
